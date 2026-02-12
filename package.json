@@ -5,4 +5,7 @@
     "dotenv": "^17.2.4",
     "express": "^5.2.1"
   }
+  "scripts": {
+    "start": "node index.js"
+  }
 }

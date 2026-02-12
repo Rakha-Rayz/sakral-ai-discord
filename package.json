@@ -1,11 +1,13 @@
 {
+  "name": "sakral-ai-discord",
+  "version": "2.0.0",
+  "scripts": {
+    "start": "node index.js"
+  },
   "dependencies": {
     "@google/generative-ai": "^0.24.1",
     "discord.js": "^14.25.1",
     "dotenv": "^17.2.4",
     "express": "^5.2.1"
-  }
-  "scripts": {
-    "start": "node index.js"
   }
 }
